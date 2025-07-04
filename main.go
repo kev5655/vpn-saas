@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kev5655/vpn-saas/cmd"
+import "vpn-saas/vpn-saas/cmd"
 
 func main() {
 	cmd.Execute()
